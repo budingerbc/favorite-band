@@ -1,0 +1,12 @@
+.sidebar {
+  float: right;
+  font-size: 20px;
+  background-color: lightblue;
+}
+
+.column {
+  width: 25%;
+  float: left;
+  font-size: 40px;
+  color: white;
+}
