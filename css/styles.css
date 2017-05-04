@@ -1,4 +1,7 @@
 .sidebar {
+  border: 2px solid green;
+  padding: 4px;
+  margin: 12px;
   float: right;
   font-size: 20px;
   background-color: lightblue;
